@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I create software at [apparently.studio](https://apparently.studio/) and play games.  
+I create software at [Apparently](https://apparently.studio/) and play games.  
 Sometimes, I also 3D print, tinker, and occasionally doodle something.
 
 <!--
